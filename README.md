@@ -1,6 +1,6 @@
 # READTHESE
 
-[The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) - [D. Thomas](https://twitter.com/pragdave) and A. Hunt
+[The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) - [D. Thomas](https://twitter.com/pragdave) and [A. Hunt](https://twitter.com/PragmaticAndy)
 
 Clean Code - Robert C. Martin
 
