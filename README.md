@@ -1,6 +1,6 @@
 # READTHESE
 
-The Pragmatic Programmer - D. Thomas and A. Hunt
+[The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) - [D. Thomas](https://twitter.com/pragdave) and A. Hunt
 
 Clean Code - Robert C. Martin
 
